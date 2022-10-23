@@ -1,3 +1,13 @@
+# Changelog
+
+## [2.3.4](https://github.com/ThisIsBeacon/node-mysql2/compare/v2.3.3...v2.3.4) (2022-10-23)
+
+
+### Bug Fixes
+
+* **typings:** Add the infileStreamFactory option to the type definition ([bf9cc4c](https://github.com/ThisIsBeacon/node-mysql2/commit/bf9cc4c41e72f4a9014659a22b131739524bda1c))
+* webpack projects no longer show warning for cardinal dependency ([26c56ae](https://github.com/ThisIsBeacon/node-mysql2/commit/26c56ae64846814eb8234c0d352871a7b6651d66))
+
 2.3.3 ( 14/11/2021 )
   - no changes compared to 2.3.3-rc.0
 
